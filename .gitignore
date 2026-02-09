@@ -4,7 +4,5 @@ models/
 
 # Jupyter Notebooks
 jupyter_notebooks/lesson_x.x.ipynb
-jupyter_notebooks/tut_2.2.ipynb
-jupyter_notebooks/tut_3.1.ipynb
 
 # Datasets
