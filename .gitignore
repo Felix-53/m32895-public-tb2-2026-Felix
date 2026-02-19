@@ -3,7 +3,6 @@ venv/
 models/
 
 # Jupyter Notebooks - drafts
-jupyter_notebooks/lesson_4.2.ipynb
 jupyter_notebooks/lesson_5.1.ipynb
 jupyter_notebooks/lesson_5.2.ipynb
 jupyter_notebooks/lesson_6.1.ipynb
@@ -19,9 +18,7 @@ jupyter_notebooks/lesson_10.2.ipynb
 jupyter_notebooks/lesson_11.1.ipynb
 jupyter_notebooks/lesson_11.2.ipynb
 
-jupyter_notebooks/lesson_x.x.ipynb
-
-jupyter_notebooks/pandas_visualisation_bonus.ipynb
+jupyter_notebooks/current_exercises.ipynb
 
 # Datasets
 datasets/mall_customers_k-means.csv
