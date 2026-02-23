@@ -1,9 +1,7 @@
 # Folders
 venv/
-models/
 
 # Jupyter Notebooks - drafts
-jupyter_notebooks/lesson_5.1.ipynb
 jupyter_notebooks/lesson_5.2.ipynb
 jupyter_notebooks/lesson_6.1.ipynb
 jupyter_notebooks/lesson_6.2.ipynb

@@ -14,4 +14,6 @@
 
 **lesson_4.1** - Pandas data handling and visualisation introduction
 
+**lesson_4.2** - Scikit-learn overview, k-means clustering, save and reuse a trained model
+
 N.b. In the lesson numbering, the 1<sup>st</sup> number corresponds to the week in the TB, the 2<sup>nd</sup> number corresponds to the lesson in a week (can only be 1 or 2). For instance, lesson_3.2 is the 2<sup>nd</sup> sutorial (Thursday) in the 3<sup>rd</sup> teaching week.
